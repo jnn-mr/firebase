@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564099934074",
+    "project_id": "areniego-firebase",
+    "storage_bucket": "areniego-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564099934074:android:6ed0a537770aaac05758c3",
+        "android_client_info": {
+          "package_name": "com.example.areniego_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYk0C1mJ0yXAJsp87ahsVyivpR2cT0Ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
